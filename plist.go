@@ -1,3 +1,4 @@
+//Package xbpspkgdb provides types and functions for xbps plist access
 package xbpspkgdb
 
 import (
